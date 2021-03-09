@@ -6,6 +6,6 @@ public class Client {
 		SingletonClass obj = SingletonClass.getInstance();
 		boolean result = obj instanceof SingletonClass;
 		System.out.println(result);
-		System.out.println("Type of obj is: " + obj.getClass().getSimpleName());
+		System.out.println("obj class name is: " + obj.getClass().getSimpleName());
 	}
 }
