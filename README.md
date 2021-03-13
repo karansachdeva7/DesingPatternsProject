@@ -1,6 +1,6 @@
 # DesingPatternsProject
 
-Broadly there are three types of Design Patterns:
+### Broadly there are three types of Design Patterns:
 1. Creational
 2. Structural
 3. Behavioral
@@ -9,9 +9,9 @@ Broadly there are three types of Design Patterns:
 Design Patterns covered in this repository:
 
 1. Creational
-    Singleton pattern
+   - Singleton pattern
 
 2. Structural
-    Adapter pattern
+   - Adapter pattern
     
 3. Behavioral
