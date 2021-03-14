@@ -13,5 +13,6 @@
 
 2. Structural
    * Adapter pattern
+   * Proxy pattern
     
 3. Behavioral
